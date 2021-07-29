@@ -1,0 +1,14 @@
+{
+  "name": "notion-reminder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Mila Frerichs",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^0.2.3"
+  }
+}
